@@ -50,6 +50,8 @@ You can view documentation, visit [tailwindcss.com](https://tailwindcss.com/).
 Starting [Storybook](https://github.com/storybookjs/storybook):
 
 ```bash
+npm run storybook
+# or
 yarn storybook
 ```
 
@@ -58,6 +60,21 @@ Open [http://localhost:6006](http://localhost:3000) with your browser to explore
 Visit [Storybook's website](https://storybook.js.org) to learn more about Storybook.
 
 Documentation can be found [Storybook's docs site](https://storybook.js.org/docs).
+
+## Test
+
+Runing test:
+
+```bash
+npm run test
+# or
+yarn test
+```
+
+For the details of the testing libraries this project is using, refer to the below.
+
+- [Jest](https://github.com/facebook/jest)
+- [React Testing Libraries](https://github.com/testing-library/react-testing-library)
 
 ## Deploy on Vercel
 
